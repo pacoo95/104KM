@@ -1,4 +1,4 @@
-''' function that randomly shuffles
+''' program that randomly shuffles
         an array of integers.'''
 
 import random
@@ -18,5 +18,4 @@ def shuffle(arr1,arr2):
 
 shuffle(arr1,arr2)
 
-#I have made this simple function as I couldn't come up with
-#another idea of its creation.
+
