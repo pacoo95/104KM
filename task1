@@ -1,12 +1,12 @@
-''' program that randomly shuffles
-        an array of integers.'''
+
 
 import random
 
 arr1 = [5,3,8,6,1,9,2,7]                #array with the given values
 arr2 = []                               #2nd array where the shuffled values are stored
 def shuffle(arr1,arr2):
-    
+    ''' function that randomly shuffles
+        an array of integers.'''
     print(arr1)                       
     while len(arr1) > 0:                      #iterates over the lenght of the array while it is bigger than 0
         i=0
